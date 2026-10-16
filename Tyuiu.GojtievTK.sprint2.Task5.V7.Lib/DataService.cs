@@ -15,7 +15,7 @@ namespace Tyuiu.GojtievTK.sprint2.Task5.V7.Lib
                     monthName = "Февраль";
                     break;
                 case 2:
-                    monthName = "Март";
+                    monthName = "март";
                     break;
                 case 3:
                     monthName = "Апрель";
